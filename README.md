@@ -16,7 +16,7 @@ Le Projet lab1 contient des classes Java pour lire et écrire dans HDFS.
 
 3. Cree pour chaque fichier java l'executable File.jar
 
-se rendre dans [text](lab1) ou se trouve pom.xml et execute
+se rendre dans BigdataLabs/lab1/ ou se trouve pom.xml et execute
 
  ```bash
    mvn clean package
