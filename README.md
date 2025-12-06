@@ -1,5 +1,15 @@
 # Mon projet Hadoop
 
+## Installation du Lab Hadoop
+
+1. Installer Docker et ses dépendances.
+2. Cloner le projet :
+
+ ```bash
+   git clone https://github.com/Dianamikolo/BigdataLabs.git
+   cd BigdataLabs/hadoop_lab
+   docker compose up -d
+
 Le Projet lab1 contient des classes Java pour lire et écrire dans HDFS.
 
 ## Description
