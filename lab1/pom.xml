@@ -51,14 +51,15 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>edu.supmti.hadoop.WriteHDFS</mainClass>
+                            <mainClass>edu.supmti.hadoop.ReadHDFS</mainClass>
                         </manifest>
                     </archive>
-                    <finalName>WriteHDFS</finalName>
+                    <finalName>ReadHDFS</finalName>
                 </configuration>
             </plugin>
 
         </plugins>
+        
     </build>
 
 </project>
